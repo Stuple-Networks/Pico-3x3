@@ -1,9 +1,9 @@
 #pragma once
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID 0xCAFE
-#define PRODUCT_ID 0x0001
-#define DEVICE_VER 0x0001
+#define VENDOR_ID 0x1209
+#define PRODUCT_ID 0x3739
+#define DEVICE_VER 1
 #define MANUFACTURER "DIY"
 #define PRODUCT "Pico 3x3"
 
