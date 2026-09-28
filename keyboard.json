@@ -5,9 +5,9 @@
     "bootloader": "rp2040",
     "processor": "RP2040",
     "usb": {
-        "vid": "0xCAFE",
-        "pid": "0x0001",
-        "device_version": "0.0.1"
+        "vid": "0x1209",
+        "pid": "0x3739",
+        "device_version": "1.0.1"
     },
     "matrix_pins": {
         "rows": [
